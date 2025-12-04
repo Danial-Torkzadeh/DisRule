@@ -1,3 +1,4 @@
+StatRule: A visual tool for gaining intuition on probability distributions
 hello anyone who is reading this . 
 these files are for a concept called statrule . a tool for visualising statistical disstributions. 
 for using them you can use the privided svg files, and if you want a new ruler with other degree of freedom you can use the code.
