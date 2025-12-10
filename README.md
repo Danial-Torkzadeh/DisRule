@@ -1,6 +1,6 @@
-StatRule: A visual tool for gaining intuition on probability distributions
+DisRule: A visual tool for gaining intuition on probability distributions
 hello anyone who is reading this . 
-these files are for a concept called statrule . a tool for visualising statistical disstributions. 
+these files are for a concept called DisRule . a tool for visualising statistical disstributions. 
 for using them you can use the privided svg files, and if you want a new ruler with other degree of freedom you can use the code.
 open the code and change the df parameter as you want, save it and run it, it will generate your statrule in svg format.
 for disclosure haerby i announce i used ai for debugging and making the code a little more readable 
